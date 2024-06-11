@@ -1,0 +1,32 @@
+_repo: Sola-contro-tutti-b-romanzo_73667
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Misasi, Nicola
+    birthdate: 1850
+    deathdate: 1923
+    gutenberg_agent_id: '56949'
+    url: http://www.gutenberg.org/2009/agents/56949
+    wikipedia: https://it.wikipedia.org/wiki/Nicola_Misasi
+description: ''
+gutenberg_issued: '2024-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73667'
+language: it
+pgterms:marc905: 20230521091932misasi
+pgterms:marc906: '1911'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by Biblioteca Nazionale
+  Braidense - Milano)
+publication_note: '  $aMilano :$bQuintieri, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'Sola contro tutti! : $b romanzo'
+url: http://www.gutenberg.org/ebooks/73667
