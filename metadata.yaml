@@ -1,5 +1,8 @@
 _repo: Sola-contro-tutti-b-romanzo_73667
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73667-h/images/cover.jpg
 creator:
   author:
     agent_name: Misasi, Nicola
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56949
     wikipedia: https://it.wikipedia.org/wiki/Nicola_Misasi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73667#Sola-contro-tutti-b-romanzo
 gutenberg_issued: '2024-05-21'
 gutenberg_type: Text
 identifiers:
